@@ -1,14 +1,16 @@
-# why fork
-Original package store images in React ImageStore, that is deprecated. 
-This fork saves rotated images in app temp directory.
-
 # react-native-image-rotate
+
+This is a fork by Bruno Fortunato
 
 This project supports react-native >= 0.40.0
 
 This module is meant to be used together with react-native's
 [ImageEditor](https://github.com/facebook/react-native/blob/master/Libraries/Image/ImageEditor.js)
 to create full-featured crop tool
+
+## Why fork
+Original package store images in React ImageStore, that is deprecated. 
+This fork saves rotated images in app temp directory.
 
 ## Installation
 
