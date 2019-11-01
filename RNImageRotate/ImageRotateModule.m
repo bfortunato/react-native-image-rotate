@@ -76,8 +76,7 @@ RCT_EXPORT_METHOD(rotateImage:(NSURLRequest *)imageURL
     [data writeToFile:path atomically:YES];
     
     successCallback(@[path]);
-      
-    }];
+
   }];
 }
 
