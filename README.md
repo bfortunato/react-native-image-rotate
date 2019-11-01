@@ -1,3 +1,7 @@
+# why fork
+Original package store images in React ImageStore, that is deprecated. 
+This fork saves rotated images in app temp directory.
+
 # react-native-image-rotate
 
 This project supports react-native >= 0.40.0
